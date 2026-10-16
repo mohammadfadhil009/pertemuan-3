@@ -1,0 +1,7 @@
+print(30 * "=")
+angka_pertama = input("masukkan angka pertama : ")
+angka_kedua = input("masukkan angka kedua : ")
+print( "Hasil Penjumlahan :", (float(angka_pertama)+ float(angka_kedua)))
+print( "Hasil Pengurangan :", (float(angka_pertama)- float(angka_kedua)))
+print( "Hasil Perkalian:", (float(angka_pertama)* float(angka_kedua)))
+print( "Hasil Pembagian:", (float(angka_pertama)/ float(angka_kedua)))
